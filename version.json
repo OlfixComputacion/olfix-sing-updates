@@ -1,5 +1,5 @@
 {
-  "versionCode": 38,
-  "version": "1.2.1",
-  "notes": "v1.2.1 — Primera versión distribuida a testers."
+  "versionCode": 39,
+  "version": "1.3.0",
+  "notes": "v1.3.0 — Tarea 5.2: KaraokePlayer + KaraokeRepository + KaraokeViewModel stub."
 }
