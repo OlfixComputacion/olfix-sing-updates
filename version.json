@@ -1,5 +1,5 @@
 {
-  "versionCode": 41,
-  "version": "1.5.0",
-  "notes": "v1.5.0 — Tareas 5.5-5.6: KaraokeScoringEngine, KaraokeScreen completa."
+  "versionCode": 42,
+  "version": "1.6.0",
+  "notes": "v1.6.0 — Biblioteca de Karaoke con búsqueda y grabación de voz mientras cantás."
 }
