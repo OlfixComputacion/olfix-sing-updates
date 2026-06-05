@@ -1,5 +1,5 @@
 {
-  "versionCode": 45,
-  "version": "1.6.3",
-  "notes": "v1.6.3 — Correcciones: fondo transparente al abrir app, botones del espectrómetro negros en algunos dispositivos, fix build KSP en Windows con SDK en drive distinto."
+  "versionCode": 46,
+  "version": "1.6.4",
+  "notes": "v1.6.4 — Mejoras internas: documentación KDoc en clases principales, reglas ProGuard y configuración de build release firmado."
 }
