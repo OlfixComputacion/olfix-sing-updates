@@ -1,5 +1,5 @@
 {
-  "versionCode": 51,
-  "version": "1.6.9",
-  "notes": "v1.6.9 — Fix ícono: halos mucho más sutiles, micrófono visible sobre fondo oscuro."
+  "versionCode": 52,
+  "version": "1.7.0",
+  "notes": "v1.7.0 — Sistema de rangos vocales: enum VoiceType con 12 tipos y migración de base de datos (schema v8)."
 }
