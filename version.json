@@ -1,5 +1,5 @@
 {
-  "versionCode": 46,
-  "version": "1.6.4",
-  "notes": "v1.6.4 — Mejoras internas: documentación KDoc en clases principales, reglas ProGuard y configuración de build release firmado."
+  "versionCode": 48,
+  "version": "1.6.6",
+  "notes": "v1.6.6 — Fix: error de compilación en AudioPermissionGate (llaves desbalanceadas en 4 pantallas)."
 }
