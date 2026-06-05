@@ -1,5 +1,5 @@
 {
-  "versionCode": 42,
-  "version": "1.6.0",
-  "notes": "v1.6.0 — Biblioteca de Karaoke con búsqueda y grabación de voz mientras cantás."
+  "versionCode": 43,
+  "version": "1.6.1",
+  "notes": "v1.6.1 — Suite de tests unitarios y de integración Espresso."
 }
