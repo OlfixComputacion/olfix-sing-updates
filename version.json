@@ -1,5 +1,5 @@
 {
-  "versionCode": 48,
-  "version": "1.6.6",
-  "notes": "v1.6.6 — Fix: error de compilación en AudioPermissionGate (llaves desbalanceadas en 4 pantallas)."
+  "versionCode": 49,
+  "version": "1.6.7",
+  "notes": "v1.6.7 — Nuevo ícono launcher: micrófono cian con halos y ondas sobre fondo oscuro."
 }
