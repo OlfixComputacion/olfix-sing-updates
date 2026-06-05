@@ -1,5 +1,5 @@
 {
-  "versionCode": 50,
-  "version": "1.6.8",
-  "notes": "v1.6.8 — Fix ícono launcher: background sólido oscuro, foreground con micrófono cian y halos."
+  "versionCode": 51,
+  "version": "1.6.9",
+  "notes": "v1.6.9 — Fix ícono: halos mucho más sutiles, micrófono visible sobre fondo oscuro."
 }
