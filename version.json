@@ -1,5 +1,5 @@
 {
-  "versionCode": 53,
-  "version": "1.8.0",
-  "notes": "v1.8.0 — Resultado de rango mejorado: card comparativa con barras visuales por tipo de voz, scroll en pantalla de resultado."
+  "versionCode": 54,
+  "version": "2.0.0",
+  "notes": "v2.0.0 — Sistema de rangos vocales completo: 12 tipos de voz, análisis adaptativo, ejercicios personalizados al rango del usuario."
 }
