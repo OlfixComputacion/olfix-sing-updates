@@ -1,5 +1,5 @@
 {
-  "versionCode": 52,
-  "version": "1.7.0",
-  "notes": "v1.7.0 — Sistema de rangos vocales: enum VoiceType con 12 tipos y migración de base de datos (schema v8)."
+  "versionCode": 53,
+  "version": "1.8.0",
+  "notes": "v1.8.0 — Resultado de rango mejorado: card comparativa con barras visuales por tipo de voz, scroll en pantalla de resultado."
 }
