@@ -1,5 +1,5 @@
 {
-  "versionCode": 54,
-  "version": "2.0.0",
-  "notes": "v2.0.0 — Sistema de rangos vocales completo (12 tipos). Nombre corregido a Olfix-Sing en toda la interfaz."
+  "versionCode": 55,
+  "version": "2.1.0",
+  "notes": "v2.1.0 — Modelo de datos para sesión diaria con racha (DailyStreak). Nuevos logros: 3, 7, 14 y 30 días consecutivos."
 }
