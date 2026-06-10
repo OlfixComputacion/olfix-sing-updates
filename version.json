@@ -1,5 +1,5 @@
 {
-  "versionCode": 56,
-  "version": "2.2.0",
-  "notes": "v2.2.0 — Lógica de sesión diaria con racha (DailySessionViewModel). Sesión de 3 ejercicios adaptativos, cálculo de racha y desbloqueo de logros."
+  "versionCode": 57,
+  "version": "2.3.0",
+  "notes": "v2.3.0 — Pantalla de sesión diaria con racha. Muestra los 3 ejercicios del día, estado de progreso y celebración al completar."
 }
