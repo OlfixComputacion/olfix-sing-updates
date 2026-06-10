@@ -1,5 +1,5 @@
 {
-  "versionCode": 57,
-  "version": "2.3.0",
-  "notes": "v2.3.0 — Pantalla de sesión diaria con racha. Muestra los 3 ejercicios del día, estado de progreso y celebración al completar."
+  "versionCode": 58,
+  "version": "2.4.0",
+  "notes": "v2.4.0 — Etapa 2 completa: widget de racha en el Dashboard, Sesión diaria como primera opción. Sistema de racha Duolingo-style con 4 logros (3/7/14/30 días)."
 }
