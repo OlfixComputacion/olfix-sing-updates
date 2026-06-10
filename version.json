@@ -1,5 +1,5 @@
 {
-  "versionCode": 58,
-  "version": "2.4.0",
-  "notes": "v2.4.0 — Etapa 2 completa: widget de racha en el Dashboard, Sesión diaria como primera opción. Sistema de racha Duolingo-style con 4 logros (3/7/14/30 días)."
+  "versionCode": 60,
+  "version": "2.6.0",
+  "notes": "v2.6.0 — Etapa 4: Rediseño visual. Dashboard con saludo y cards de color, scores en ejercicios, racha semanal y emojis en logros."
 }
