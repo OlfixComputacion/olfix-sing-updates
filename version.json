@@ -1,5 +1,5 @@
 {
-  "versionCode": 55,
-  "version": "2.1.0",
-  "notes": "v2.1.0 — Modelo de datos para sesión diaria con racha (DailyStreak). Nuevos logros: 3, 7, 14 y 30 días consecutivos."
+  "versionCode": 56,
+  "version": "2.2.0",
+  "notes": "v2.2.0 — Lógica de sesión diaria con racha (DailySessionViewModel). Sesión de 3 ejercicios adaptativos, cálculo de racha y desbloqueo de logros."
 }
