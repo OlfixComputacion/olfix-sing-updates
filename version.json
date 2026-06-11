@@ -1,5 +1,5 @@
 {
-  "versionCode": 61,
-  "version": "2.6.1",
-  "notes": "v2.6.1 — Fix sesión diaria: los pasos se desbloquean correctamente al completar cada ejercicio."
+  "versionCode": 62,
+  "version": "2.6.2",
+  "notes": "v2.6.2 — Fix sesión diaria: usa savedStateHandle para comunicar ejercicio completado."
 }
