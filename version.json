@@ -1,5 +1,5 @@
 {
-  "versionCode": 60,
-  "version": "2.6.0",
-  "notes": "v2.6.0 — Etapa 4: Rediseño visual. Dashboard con saludo y cards de color, scores en ejercicios, racha semanal y emojis en logros."
+  "versionCode": 61,
+  "version": "2.6.1",
+  "notes": "v2.6.1 — Fix sesión diaria: los pasos se desbloquean correctamente al completar cada ejercicio."
 }
